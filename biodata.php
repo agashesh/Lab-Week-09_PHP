@@ -24,12 +24,12 @@
 
 <?php
 $nim = "24.11.1234";
-$nama = "Putra Akbar";
-$kelas = "IF-01";
+$nama = "L.M.Hanggara Putra Akbar";
+$kelas = "BCI";
 $prodi = "Informatika";
 $alamat = "Yogyakarta";
-$hobi = "Gaming dan Coding";
-$cita_cita = "Software Engineer di Jepang";
+$hobi = "Baca Buku";
+$cita_cita = "Hidup tenteram";
 ?>
 
 <h2>Biodata Mahasiswa</h2>
