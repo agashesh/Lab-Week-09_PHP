@@ -14,15 +14,15 @@ Proyek ini dibuat untuk memenuhi tugas praktikum PHP Basic.
 2. Simpan folder project di:
 
 ```text
-C:\xampp\htdocs\php_basic
+C:\xampp\htdocs\Prak9
 ```
 
 3. Buka browser dan akses:
 
 ```text
-http://localhost/php_basic/biodata.php
-http://localhost/php_basic/kalkulator_nilai.php
-http://localhost/php_basic/daftar_produk.php
+http://localhost/Prak9/biodata.php
+http://localhost/Prak9/kalkulator_nilai.php
+http://localhost/Prak9/daftar_produk.php
 ```
 
 ## Bahasa Pemrogramman
